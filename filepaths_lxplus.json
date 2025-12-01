@@ -1,0 +1,709 @@
+{
+    "s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down/251126_170714/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-1_unflavored-down/251126_170856/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-10_ctau-2000_unflavored-down/251126_170915/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1000_unflavored-down/251126_170933/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-100_unflavored-down/251126_170951/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1500_unflavored-down/251126_171009/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-1_unflavored-down/251126_171027/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1000_mDark-20_ctau-2000_unflavored-down/251126_171046/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_21.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_22.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_23.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_24.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_25.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_26.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_27.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_28.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_29.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_30.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1000_unflavored-down/251126_171103/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-100_unflavored-down/251126_171121/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1500_unflavored-down/251126_171140/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-1_unflavored-down/251126_171158/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-10_ctau-2000_unflavored-down/251126_171223/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1000_unflavored-down/251126_171240/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-100_unflavored-down/251126_171258/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1500_unflavored-down/251126_171316/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-1_unflavored-down/251126_171334/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-1500_mDark-20_ctau-2000_unflavored-down/251126_171352/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1000_unflavored-down/251126_171410/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-10_ctau-100_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/s-channel_mMed-500_mDark-10_ctau-100_unflavored-down/251126_171428/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1500_unflavored-down/251126_171446/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-10_ctau-1_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/s-channel_mMed-500_mDark-10_ctau-1_unflavored-down/251126_171505/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-10_ctau-2000_unflavored-down/251126_171524/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1000_unflavored-down/251126_171542/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-20_ctau-100_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/s-channel_mMed-500_mDark-20_ctau-100_unflavored-down/251126_171559/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1500_unflavored-down/251126_171620/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-20_ctau-1_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/s-channel_mMed-500_mDark-20_ctau-1_unflavored-down/251126_171638/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-500_mDark-20_ctau-2000_unflavored-down/251126_171656/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1000_unflavored-down/251126_171718/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-10_ctau-100_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/s-channel_mMed-750_mDark-10_ctau-100_unflavored-down/251126_171743/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1500_unflavored-down/251126_171802/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-10_ctau-1_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/s-channel_mMed-750_mDark-10_ctau-1_unflavored-down/251126_171822/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-10_ctau-2000_unflavored-down/251126_171840/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1000_unflavored-down/251126_171859/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-20_ctau-100_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/s-channel_mMed-750_mDark-20_ctau-100_unflavored-down/251126_171918/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1500_unflavored-down/251126_171936/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-20_ctau-1_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/s-channel_mMed-750_mDark-20_ctau-1_unflavored-down/251126_171953/0000/nano_mcRun3_9.root": "Events"
+        }
+    },
+    "s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down": {
+        "files": {
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_1.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_10.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_11.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_12.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_13.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_14.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_15.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_16.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_17.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_18.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_19.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_2.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_20.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_3.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_4.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_5.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_6.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_7.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_8.root": "Events",
+            "root://eosuser.cern.ch//eos/user/e/ekauffma/EMJ/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/s-channel_mMed-750_mDark-20_ctau-2000_unflavored-down/251126_172012/0000/nano_mcRun3_9.root": "Events"
+        }
+    }
+}

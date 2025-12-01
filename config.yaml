@@ -1,0 +1,55 @@
+---
+# Data configurations --------------------------------------
+
+json_filename: "filepaths_lxplus.json"     # name of json file containing root file paths
+process_all_datasets: False         # run over all datasets in above JSON
+dataset_names:                      # if the above is false, list the datasets to process
+    - "s-channel_mMed-1000_mDark-10_ctau-1500_unflavored-down"
+
+# Coffea configurations  --------------------------------------
+n_files: 1                               # number of files to process (-1 for all)
+save_hists: True                          # save histograms using pickle
+run_locally: True                      # allows you to run locally rather than using dask if set to True
+
+# Object configurations ----------------------------------
+# Which objects to process
+objects: 
+    reco:
+    - "JetCHS"
+    - "Jet"
+
+# Histograms to make ---------------------------------------
+histograms_1d:
+    #per_event: # histograms to make per event
+    # - "PV_npvs"
+    per_object_type: # histograms by object type
+    - "ht"
+    - "mult"
+    - "pt"
+    - "eta"
+    - "phi"
+    - "neHEF"
+    - "neEmEF"
+    - "muEF"
+    - "chEmEF"
+    - "chHEF"
+    - "nConstituents"
+    #per_object: # histograms by object type, pt ordered, e.g. pT of leading and subleading jets
+    # - "pt"
+    # - "eta"
+    # - "phi"
+
+objects_max_i:  # number of objects to plot for pt ordered object plotting (also number of objects to clean for event-level observables in efficiency-obj module)
+    "Jet": 4
+    "JetCHS": 4
+
+# Object cleaning requirements -------------------------------------
+object_cleaning:
+    "Jet":
+        all:
+            pt: [30.0, null] # GeV
+            eta: [-2.5, 2.5]
+    "JetCHS":
+        all:
+            pt: [30.0, null] # GeV
+            eta: [-2.5, 2.5]
